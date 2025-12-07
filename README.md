@@ -57,13 +57,13 @@
 <div align="center">
   
 ### 📈 Overall Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HutaoMain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/HutaoMain)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HutaoMain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ### 🔥 Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HutaoMain&theme=tokyonight&hide_border=true)](https://github.com/HutaoMain)
 
 ### 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HutaoMain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/HutaoMain)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HutaoMain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
